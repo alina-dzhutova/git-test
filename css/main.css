@@ -1,0 +1,79 @@
+html,
+body {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.text-uppercase {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.text-center {
+  text-align: center;
+}
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+  color: #ff0000;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 42px;
+  color: #c71585;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Playfair Display", serif;
+  font-size: 36px;
+  color: #4b0082;
+  text-align: center;
+}
+
+h4 {
+  font-family: "Playfair Display", serif;
+  font-size: 28px;
+  color: #4b0082;
+  text-align: center;
+}
+
+.table {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+.table th,
+td {
+  border: 1px solid #000;
+  text-align: left;
+}
+
+.table-head {
+  background-color: chartreuse;
+  font-family: "Playfair Display", serif;
+}
+
+.table-head th {
+  text-align: center;
+}
+
+.fix-width {
+  max-width: 250px;
+}
+/*
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto Condensed', sans-serif;*/
